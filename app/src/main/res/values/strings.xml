@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DevHub</string>
+    <string name="internet">No internet Connection. Please make sure you are connected to the internet</string>
+</resources>
